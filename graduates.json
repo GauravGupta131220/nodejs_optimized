@@ -1,0 +1,144 @@
+{
+  "graduateData": [
+    {
+      "jkMale": 401279,
+      "jkFemale": 252485
+    },
+    {
+      "HPMale": 251164,
+      "HPFemale": 195445
+    },
+    {
+      "punjabMale": 873776,
+      "punjabFemale": 887070
+    },
+    {
+      "chandigarhMale": 104748,
+      "chandigarhFemale": 89705
+    },
+    {
+      "UKMale": 512068,
+      "UKFemale": 398220
+    },
+    {
+      "haryanaMale": 1102809,
+      "haryanaFemale": 774276
+    },
+    {
+      "delhiMale": 1535972,
+      "delhiFemale": 1535972
+    },
+    {
+      "rajasthanMale": 2086247,
+      "rajasthanFemale": 977035
+    },
+    {
+      "UPMale": 6378138,
+      "UPFemale": 3541700
+    },
+    {
+      "biharMale": 2326092,
+      "biharFemale": 735584
+    },
+    {
+      "sikkimMale": 19290,
+      "sikkimFemale": 13379
+    },
+    {
+      "arunacahalMale": 36430,
+      "arunachalFemale": 17176
+    },
+    {
+      "nagalandMale": 53023,
+      "nagalandFemale": 36695
+    },
+    {
+      "manipurMale": 135082,
+      "manipurFemale": 90538
+    },
+    {
+      "mizoramMale": 29527,
+      "mizoramFemale": 20094
+    },
+    {
+      "tripuraMale": 88621,
+      "tripuraFemale": 49191
+    },
+    {
+      "meghalayaMale": 46311,
+      "meghalayaFemale": 44208
+    },
+    {
+      "assamMale": 639241,
+      "assamFemale": 372104
+    },
+    {
+      "wbMale": 3088673,
+      "wbFemale": 1739144
+    },
+    {
+      "jharkhandMale": 906174,
+      "jharkhandFemale": 422303
+    },
+    {
+      "odhissaMale": 1174184,
+      "odhissaFemale": 609613
+    },
+    {
+      "chattisgarhMale": 659081,
+      "chattisgarhFemale": 359772
+    },
+    {
+      "MPMale": 2051127,
+      "MPFemale": 1171675
+    },
+    {
+      "GJMale": 1891932,
+      "GJFemale": 1282226
+    },
+    {
+      "damanMale": 8425,
+      "damanFemale": 4377
+    },
+    {
+      "dadraMale": 12227,
+      "dadraFemale": 6947
+    },
+    {
+      "maharashtraMale": 5167671,
+      "maharashtraFemale": 3471410
+    },
+    {
+      "andhraMale": 3632622,
+      "andhraFemale": 1944765
+    },
+    {
+      "karnatakaMale": 2489209,
+      "karnatakaFemale": 1554438
+    },
+    {
+      "goaMale": 74077,
+      "goaFemale": 72751
+    },
+    {
+      "lakshwadeepMale": 1458,
+      "laskshwadeepFemale": 844
+    },
+    {
+      "keralaMale": 1131336,
+      "keralaFemale": 1399985
+    },
+    {
+      "tnMale": 3119342,
+      "tnFemale": 2338400
+    },
+    {
+      "pundicherryMale": 79482,
+      "pundicherryFemale": 62547
+    },
+    {
+      "andmanMale": 13622,
+      "andmanFemale": 10537
+    }
+  ]
+}

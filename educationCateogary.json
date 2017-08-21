@@ -1,0 +1,34 @@
+{
+  "educationData": [
+    {
+      "withoutEducation": 19278416
+    },
+    {
+      "belowPrimary": 78445099
+    },
+    {
+      "primary": 99311072
+    },
+    {
+      "middle": 77629578
+    },
+    {
+      "MatricSecondary": 63769834
+    },
+    {
+      "HigherSecondary": 46481321
+    },
+    {
+      "NonTechnicalDiploma": 726565
+    },
+    {
+      "TechnicalDiploma": 5354161
+    },
+    {
+      "GraduateAndAbove": 26168511
+    },
+    {
+      "Unclassified": 1384454
+    }
+  ]
+}
