@@ -1,34 +1,42 @@
-{
-  "educationData": [
-    {
-      "withoutEducation": 19278416
-    },
-    {
-      "belowPrimary": 78445099
-    },
-    {
-      "primary": 99311072
-    },
-    {
-      "middle": 77629578
-    },
-    {
-      "MatricSecondary": 63769834
-    },
-    {
-      "HigherSecondary": 46481321
-    },
-    {
-      "NonTechnicalDiploma": 726565
-    },
-    {
-      "TechnicalDiploma": 5354161
-    },
-    {
-      "GraduateAndAbove": 26168511
-    },
-    {
-      "Unclassified": 1384454
-    }
-  ]
-}
+[
+  {
+    "cateogary": "Educational level - Literate without educational level - Persons",
+    "cateogarySum": 19278416
+  },
+  {
+    "cateogary": "Educational level - Below Primary - Persons",
+    "cateogarySum": 78445099
+  },
+  {
+    "cateogary": "Educational level - Primary - Persons",
+    "cateogarySum": 99311072
+  },
+  {
+    "cateogary": "Educational level - Middle - Persons",
+    "cateogarySum": 77629578
+  },
+  {
+    "cateogary": "Educational level - Matric/Secondary - Persons",
+    "cateogarySum": 63769834
+  },
+  {
+    "cateogary": "Educational level - Higher secondary/Intermediate/Pre-University/Senior secondary - Persons",
+    "cateogarySum": 46481321
+  },
+  {
+    "cateogary": "Educational level - Non-technical diploma or certificate not equal to degree - Persons",
+    "cateogarySum": 726565
+  },
+  {
+    "cateogary": "Educational level - Technical diploma or certificate not equal to degree - Persons",
+    "cateogarySum": 5354161
+  },
+  {
+    "cateogary": "Educational level - Graduate & above - Persons",
+    "cateogarySum": 26168511
+  },
+  {
+    "cateogary": "Educational level - Unclassified - Persons",
+    "cateogarySum": 1384454
+  }
+]
