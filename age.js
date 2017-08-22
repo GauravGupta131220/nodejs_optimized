@@ -30,6 +30,7 @@ var myReadStream = fs.readFile(filePath, 'utf8', function(err, data) {
             }
         }
     }
+	//for loop
     for (let j = 0; j < ageArray.length; j++) {
         obj = {
             age: ageArray[j],
