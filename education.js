@@ -7,9 +7,7 @@ var myReadStream = fs.readFile(filePath, 'utf8', function(err, data) {
 
     //console.log(data);
     data = data.split("\n");
-
     var result = [];
-
     var headers = data[0].split(",");
 
     for (var i = 1; i < data.length; i++) {
@@ -31,12 +29,8 @@ var myReadStream = fs.readFile(filePath, 'utf8', function(err, data) {
             obj.graduateAndAbove = currentline[41];
             obj.unclassified = currentline[44];
         }
-
         result.push(obj);
-
     }
-
-
     //console.log(result);
 
     var without_education = result.reduce((c, ele) => {
@@ -128,9 +122,6 @@ var myReadStream = fs.readFile(filePath, 'utf8', function(err, data) {
     myObj.educationData.push({ GraduateAndAbove: graduate_and_above });
     myObj.educationData.push({ Unclassified: unclassified });
 
-
-
-
     var withoutEducation = JSON.stringify(myObj, null, 2);
     var belowPrimEducation = JSON.stringify(myObj, null, 2);
     var primEducation = JSON.stringify(myObj, null, 2);
@@ -141,9 +132,6 @@ var myReadStream = fs.readFile(filePath, 'utf8', function(err, data) {
     var techDiplomaEducation = JSON.stringify(myObj, null, 2);
     var graduateandAboveEdu = JSON.stringify(myObj, null, 2);
     var unclassifiedEducation = JSON.stringify(myObj, null, 2);
-
-
-
 
     fs.writeFile('educationCateogary.json', withoutEducation);
     fs.writeFile('educationCateogary.json', belowPrimEducation);
